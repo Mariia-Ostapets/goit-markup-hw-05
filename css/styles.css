@@ -450,7 +450,7 @@ input {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.form-footer-label {
+.form-footer {
   display: flex;
   gap: 24px;
 }
